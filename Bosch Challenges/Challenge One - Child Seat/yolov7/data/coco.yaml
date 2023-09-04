@@ -1,0 +1,9 @@
+train: /content/yolov7/data/train
+val: /content/yolov7/data/val
+
+
+# number of classes
+nc: 2
+
+# class names
+names: ['child_seat', 'passenger_vehicle']
